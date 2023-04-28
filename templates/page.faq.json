@@ -1,0 +1,72 @@
+{
+  "sections": {
+    "template": {
+      "type": "template-faqs",
+      "blocks": {
+        "09a639cb-0cc6-4429-8544-87cc8b7b2b45": {
+          "type": "faq",
+          "settings": {
+            "faq_question_text": "How do I place an order online?",
+            "faq_answer_text": "Browse through the Rodney Clark website and click on a product image for more detailed information. On most items, you have a size and\/ or colour option. select the size and\/ or colour you would like to order and click on the \"ADD TO BAG\" button.\n<br>\nIf a specific size in a colour is greyed out, then it is currently out of stock or has been sold out online."
+          }
+        },
+        "e91a4f07-c585-4f3f-87e3-685fbf624970": {
+          "type": "faq",
+          "settings": {
+            "faq_question_text": "How do I shop with Afterpay?",
+            "faq_answer_text": "Text here"
+          }
+        },
+        "75087a48-8cf3-4af8-9a96-61a26cc26a4f": {
+          "type": "faq",
+          "settings": {
+            "faq_question_text": "How long does my order take to ship?",
+            "faq_answer_text": "Text here"
+          }
+        },
+        "d1e400de-e25a-4389-9a97-e952fe90d26d": {
+          "type": "faq",
+          "settings": {
+            "faq_question_text": "How do I find my right size?",
+            "faq_answer_text": "Text here"
+          }
+        },
+        "604e1b26-dc07-4b27-8869-74fb954a49b9": {
+          "type": "faq",
+          "settings": {
+            "faq_question_text": "How do I shop with Afterpay?",
+            "faq_answer_text": "Text here"
+          }
+        },
+        "c82841cd-69c5-41a0-8317-c1e4d65db1b8": {
+          "type": "faq",
+          "settings": {
+            "faq_question_text": "How long does my order take to ship?",
+            "faq_answer_text": "Text here"
+          }
+        },
+        "81069bb9-6e78-4916-8dab-448c6677985b": {
+          "type": "faq",
+          "settings": {
+            "faq_question_text": "How do I find my right size?",
+            "faq_answer_text": "Text here"
+          }
+        }
+      },
+      "block_order": [
+        "09a639cb-0cc6-4429-8544-87cc8b7b2b45",
+        "e91a4f07-c585-4f3f-87e3-685fbf624970",
+        "75087a48-8cf3-4af8-9a96-61a26cc26a4f",
+        "d1e400de-e25a-4389-9a97-e952fe90d26d",
+        "604e1b26-dc07-4b27-8869-74fb954a49b9",
+        "c82841cd-69c5-41a0-8317-c1e4d65db1b8",
+        "81069bb9-6e78-4916-8dab-448c6677985b"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "template"
+  ]
+}
